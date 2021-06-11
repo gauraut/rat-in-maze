@@ -12,3 +12,5 @@ Assumptions:
 
 
 Well that's it for now! Enjoy Jerry's adventure :)
+
+Please Note: I have already compiled the code so you'll have the executable and objects file in the code. Please clear before you compile.
